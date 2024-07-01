@@ -60,6 +60,8 @@ This is the backend for the HR System, built using Django and Django REST framew
 
 ## API Endpoints
 
+``` http://localhost:8000/ ``` 
+
 - **admin/**: Admin Page
 - **api/**: CRUD Endpoints
 - **auth/**: Authentication Endpoints
